@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0d83cbf362d4751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -142,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec21c4fe458cdc6",
+  "active": "d0a378a7407587e3",
   "lastOpenFiles": [
-    "2. Strutture dati di base.md",
+    "4. Eccezioni.md",
     "3. Funzioni.md",
+    "Esercizi/flattening.py",
+    "2. Strutture dati di base.md",
     "1. Intro.md",
     "__pycache__/flattening.cpython-311.pyc",
     "__pycache__",
