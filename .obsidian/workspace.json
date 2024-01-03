@@ -8,36 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e0eca5660b58755",
+            "id": "b1c577bad652a9fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Intro.md",
+                "file": "13. Profilazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d0a378a7407587e3",
+            "id": "7c30a3814acf36fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Funzioni.md",
+                "file": "5. Classi ed oggetti.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0d83cbf362d4751",
+            "id": "44fda71c3b2f41a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Funzioni.md",
+                "file": "9. Debugging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3570316dc7934dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99cff78168ac0bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. IO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b40364e1be1de6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Profilazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Funzioni.md",
+                "file": "5. Classi ed oggetti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Funzioni.md",
+                "file": "5. Classi ed oggetti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Funzioni.md"
+                "file": "5. Classi ed oggetti.md"
               }
             }
           }
@@ -171,16 +207,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0a378a7407587e3",
+  "active": "7c30a3814acf36fd",
   "lastOpenFiles": [
+    "7. Moduli.md",
+    "5. Classi ed oggetti.md",
+    "13. Profilazione.md",
+    "12. Parsing degli argomenti.md",
     "4. Eccezioni.md",
+    "10. Testing.md",
+    "Esercizi/IO/matrix.bin",
+    "Esercizi/UnitTesting/animali/__pycache__/gatto.cpython-311.pyc",
+    "Esercizi/UnitTesting/animali/__pycache__/cane.cpython-311.pyc",
+    "Esercizi/UnitTesting/animali/__pycache__/__init__.cpython-311.pyc",
+    "9. Debugging.md",
+    "Esercizi/IO/test.py",
+    "Esercizi/Funzioni/__pycache__/flattening.cpython-311.opt-1.pyc",
+    "Esercizi/Funzioni/__pycache__",
+    "Esercizi/Funzioni/__pycache__/flattening.cpython-311.opt-2.pyc",
+    "Esercizi/Funzioni/__pycache__/flattening.cpython-311.pyc",
+    "11. IO.md",
+    "Esercizi/IO/method.bin",
+    "8. Gestione della memoria.md",
+    "6. Paradigmi logici e di programmazione.md",
     "3. Funzioni.md",
-    "Esercizi/flattening.py",
     "2. Strutture dati di base.md",
-    "1. Intro.md",
-    "__pycache__/flattening.cpython-311.pyc",
-    "__pycache__",
-    "flattening.py",
-    "Esercizi"
+    "1. Intro.md"
   ]
 }
