@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Classi ed oggetti.md",
+                "file": "8. Gestione della memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Classi ed oggetti.md",
+                "file": "8. Gestione della memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Classi ed oggetti.md",
+                "file": "8. Gestione della memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Classi ed oggetti.md"
+                "file": "8. Gestione della memoria.md"
               }
             }
           }
@@ -209,7 +209,11 @@
   },
   "active": "7c30a3814acf36fd",
   "lastOpenFiles": [
+    "6. Paradigmi logici e di programmazione.md",
     "7. Moduli.md",
+    "1. Intro.md",
+    "2. Strutture dati di base.md",
+    "3. Funzioni.md",
     "5. Classi ed oggetti.md",
     "13. Profilazione.md",
     "12. Parsing degli argomenti.md",
@@ -227,10 +231,6 @@
     "Esercizi/Funzioni/__pycache__/flattening.cpython-311.pyc",
     "11. IO.md",
     "Esercizi/IO/method.bin",
-    "8. Gestione della memoria.md",
-    "6. Paradigmi logici e di programmazione.md",
-    "3. Funzioni.md",
-    "2. Strutture dati di base.md",
-    "1. Intro.md"
+    "8. Gestione della memoria.md"
   ]
 }
