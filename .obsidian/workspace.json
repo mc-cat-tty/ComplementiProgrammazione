@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Testing.md",
+                "file": "8. Gestione della memoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Testing.md",
+                "file": "8. Gestione della memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Testing.md",
+                "file": "8. Gestione della memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Testing.md"
+                "file": "8. Gestione della memoria.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "7c30a3814acf36fd",
   "lastOpenFiles": [
+    "10. Testing.md",
     "Esercizi/CWrapper/fast_functions.so",
     "Esercizi/CWrapper/build.sh",
     "Esercizi/CWrapper/glue.py",
@@ -159,7 +160,6 @@
     "6. Paradigmi logici e di programmazione.md",
     "7. Moduli.md",
     "9. Debugging.md",
-    "10. Testing.md",
     "2. Strutture dati di base.md",
     "3. Funzioni.md",
     "4. Eccezioni.md",
@@ -170,7 +170,6 @@
     "Esercizi/UnitTesting/animali/__pycache__/gatto.cpython-311.pyc",
     "Esercizi/UnitTesting/animali/__pycache__/cane.cpython-311.pyc",
     "Esercizi/UnitTesting/animali/__pycache__/__init__.cpython-311.pyc",
-    "Esercizi/IO/test.py",
-    "Esercizi/Funzioni/__pycache__/flattening.cpython-311.opt-1.pyc"
+    "Esercizi/IO/test.py"
   ]
 }
