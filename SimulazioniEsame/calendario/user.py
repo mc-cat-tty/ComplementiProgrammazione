@@ -6,7 +6,7 @@ class User:
   User representation. UID must be unique.
   """
   uid: int = -1
-  name: str = -1
+  name: str = ""
 
   @staticmethod
   def get_header() -> str:
